@@ -1,0 +1,1 @@
+console.log("Ashika Portfolio Website Loaded Successfully");
